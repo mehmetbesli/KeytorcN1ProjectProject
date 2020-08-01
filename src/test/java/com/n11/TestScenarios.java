@@ -7,7 +7,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-public class TestScenarios extends AbstractPage{
+public class TestScenarios {
 
     private Automation automation;
     private Home home;
@@ -19,9 +19,9 @@ public class TestScenarios extends AbstractPage{
     public void openBrowser() {
         automation = new Automation();
         automation.openChromeBrowser();
-        home=new Home(driver);
-        login =new Login(driver);
-        product=new Product(driver);
+        home=new Home(automation.getDriver());
+        login =new Login(automation.getDriver());
+        product=new Product(automation.getDriver());
     }
 
     @Test
@@ -62,6 +62,6 @@ public class TestScenarios extends AbstractPage{
 
     @After
     public void closeBrowser() {
-        automation.driver.quit();
+        automation.getDriver().quit();
     }
 }

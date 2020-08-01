@@ -85,4 +85,8 @@ public class AbstractPage {
         action.moveToElement(we).build().perform();
     }
 
+    public WebDriver getDriver() {
+        return driver;
+    }
+
 }
