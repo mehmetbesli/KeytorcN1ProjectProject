@@ -22,5 +22,5 @@
 2. The project was made according to development environment rules
 3. there is clean code logic in project
 4. It is possible to test each method
-5. Page Object Design Patter is used
+5. Page Object Design Pattern is used
 

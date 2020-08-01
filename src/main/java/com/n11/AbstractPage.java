@@ -18,7 +18,7 @@ public class AbstractPage {
     private static final int DEFAULT_WAIT = 60;
     protected Logger log = Logger.getLogger(this.getClass().getName());
 
-    
+
 
     protected WebElement findElement(By by) {
 
