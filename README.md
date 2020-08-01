@@ -1,4 +1,4 @@
-# KeytorcN11Project is a a test automation project.
+# KeytorcN11Project is a test automation project.
 
 ## What is the content of the project
 1. http://www.n11.com<http://www.n11.com/> sitesine gelecek ve anasayfanin acildigini onaylayacak
