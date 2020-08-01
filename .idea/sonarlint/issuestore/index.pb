@@ -1,0 +1,23 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+E
+KeytorcN11Project.iml,b\e\be86b8f6de6e89398a6c1822e92e1430041974d1
+W
+'src/main/java/com/n11/AbstractPage.java,8\d\8d4504b71aacc74b26a2e6256c741f108f5ff33b
+U
+%src/main/java/com/n11/MainMethod.java,c\9\c98e4c9b3bc666c20990fa22ecc3228db8cee0d5
+Z
+*src/main/java/com/n11/pages/Favorites.java,4\4\44602a82fbad921b77d725625fcd6f54d2828bbe
+V
+&src/main/java/com/n11/pages/Login.java,3\2\328908a33134ab1865bf0f500e2cc245a6f4708e
+X
+(src/main/java/com/n11/pages/Product.java,9\5\956e191de45199b8736801118d41e711d2ee4f76
+U
+%src/main/java/com/n11/pages/Home.java,6\2\622b4259948577bb15bc2a3201a2189ca05266e6
+X
+(src/test/java/com/n11/TestScenarios.java,0\b\0b1f36d7fe895b1e8450ad1d41dce0e8d1a6a4bb
+9
+	readme.md,2\7\275d783e298228506068436512433d343feb52aa
+U
+%src/main/java/com/n11/Automation.java,6\1\61023a2ee6c4c6c59db8711925327a608d6bef10
