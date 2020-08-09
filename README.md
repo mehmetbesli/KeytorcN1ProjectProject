@@ -17,7 +17,7 @@
 2. Selenium Automation Tool 
 3. Junit, Log4j and Maven
 
-## Other Features
+## Other Important Features
 1. There are comments to understand easily methods
 2. The project was made according to development environment rules
 3. there is clean code logic in project
