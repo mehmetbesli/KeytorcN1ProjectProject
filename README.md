@@ -18,7 +18,7 @@
 3. Junit, Log4j and Maven
 
 ## Other Important Features
-1. Page Object Design Pattern is used
+1. Page Object Design Pattern is used in project
 2. The project was made according to development environment rules
 3. There is clean code logic in project
 4. It is possible to test each method
